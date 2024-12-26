@@ -1,4 +1,3 @@
-- Li Mengzhen, Luo Hanjiang, **Tao Hang** , Li Xiang, Dong Peijun, Wu Kaishun. Collaborative Multi-AUV Optical Communication Via Deep Reinforcement LearningIEEE Sensors Journal,2024.
-- Shao Mingyue, Luo Hanjiang, Ruby Rukhsana, Dong Pengyan, **Tao Hang** . Cooperative and Dynamic UAV-Based Mobile Sink Deployment using Deep Reinforcement Learning,2023 Eleventh International Conference on Advanced Cloud and Big Data(CBD),2023.
-- Guo Kai, Luo Hanjiang, **Tao Hang**, Ruby Rukhsana, Qin Zhizun, Liu Kui. Multi-UAVs Collaborative Search Scheme in Marine Environments using Deep Reinforcement Learning,2023 Eleventh International Conference on Advanced Cloud and Big Data(CBD),2023.
-- Luo Hanjiang, Ma Saisai,**Tao Hang**, Ruby Rukhsana, Zhou Jiehan, Wu Kaishun. DRL-Optimized Optical Communication for a Reliable UAV-Based Maritime Data Transmission,IEEE Internet of Things Journal,2023.
+- Li Mengzhen, Luo Hanjiang, **Tao Hang** , Li Xiang, Dong Peijun, Wu Kaishun. Collaborative Multi-AUV Optical Communication Via Deep Reinforcement Learning, *IEEE Sensors Journa*l,2024.
+- Guo Kai, Luo Hanjiang, **Tao Hang**, Ruby Rukhsana, Qin Zhizun, Liu Kui. Multi-UAVs Collaborative Search Scheme in Marine Environments using Deep Reinforcement Learning,*2023 Eleventh International Conference on Advanced Cloud and Big Data(CBD)*,2023.
+- Luo Hanjiang, Ma Saisai,**Tao Hang**, Ruby Rukhsana, Zhou Jiehan, Wu Kaishun. DRL-Optimized Optical Communication for a Reliable UAV-Based Maritime Data Transmission,*IEEE Internet of Things Journal*,2023.

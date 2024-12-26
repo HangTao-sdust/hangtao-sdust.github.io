@@ -5,7 +5,7 @@
 He is currently pursuing a Doctor's Degree in Computer Science, at School of Computer Science and Technology, Shandong University of Science and Technology, China.
 
 #### Email
-taohang[at]sdust.edu.cn
+taohang@sdust.edu.cn
 
 #### Education
 2016.9--2020.6   M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
